@@ -13,3 +13,4 @@ Awesome ETL tools for blockchain data
 - [QuickNode Streams](https://www.quicknode.com/streams) - Optimized streaming,
 with guaranteed delivery
 - [HyperSync](https://docs.envio.dev/docs/hypersync-clients) - Low-level, extremely fast and efficient API with Javascript, Python or Rust clients.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. MCP server (, ) — verify agent identity before x402 micropayment-gated Solana blockchain data access in agentic ETL pipelines. [MCP](https://intel.twzrd.xyz/mcp)
